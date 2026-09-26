@@ -1,5 +1,17 @@
 # 05 — Round 2d: Last Search for Slot 3 (time-boxed)
 
+> **⚠️ Superseded (Round 3 review).** The orchestrator's direct page reads found several competitors I missed:
+> - **Chasing the Unicorn:** a free national calendar with lottery deadlines, a "Worth the chase" label and a daily brief.
+> - **Bourbon Signal:** a release radar plus state guides.
+> - **OHLQ's own app,** which now sends Ohio lottery notifications.
+> - **NC Bourbon Insider:** $4.99/mo Pro.
+> - **VABourbon:** $2/mo Premier, inventory snapshots 5×/day.
+> - **Cask Watch:** open-source.
+>
+> Also, since Aug 2024 **Virginia ABC hides limited-availability inventory and sells those bottles at random stores and times**.
+>
+> **Re-score:** multi-state lottery desk **61**, Virginia "state insider" pivot **50**. Neither clears 70, so **Finalist #3 is now School-Choice (DC-first, 69, conditional)**. See `06-summary.md` §1.
+
 - **Date:** 2026-09-26
 - **Locked finalists:** #1 Card Benefit Claims & Appeals (73), #2 Group Gift Decks (75)
 - **Goal for slot 3:** clear 70, **diversify the portfolio** (ideally recurring/annual revenue), and not be a module of #1 or #2.
