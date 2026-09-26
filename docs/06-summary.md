@@ -133,7 +133,45 @@
 
 ---
 
-## 9. First 10 actions on Monday, Sep 28 (portfolio)
+## 9. If the founder is outside the US (e.g. Turkey)
+
+Stripe doesn't onboard businesses in some countries (including Turkey), and PayPal doesn't operate in Turkey. Check each provider's supported countries and payout methods for your location before week 0.
+
+**Payment options and which product each fits:**
+
+| Option | What it is | Fits | Notes |
+|---|---|---|---|
+| **Merchant of record (MoR): Paddle or Lemon Squeezy** | They are the seller; they collect and remit US sales tax/VAT and pay you out | **Card Claims, School-Choice** (digital) | No upfront cost; fees ≈ 5% + $0.50; digital goods only; confirm bank payout to your country (not PayPal) |
+| **Stripe Atlas → US LLC** | ≈ $500 one-time; Delaware entity + EIN + Stripe + US bank (e.g. Mercury) | **Group Gift Decks** direct sales (physical goods aren't allowed on MoRs) | Ongoing: registered agent + state fees; **a foreign-owned single-member LLC must file Form 5472 + a pro-forma 1120 every year** (large penalty if missed) |
+| **Etsy shop** | Etsy handles checkout and sales tax as the marketplace facilitator | **Decks, from day 1, with no US entity** | Confirm Etsy seller and payment eligibility for your country; disclose The Game Crafter as the production partner |
+
+- **Recommended path:**
+  - Launch Decks **on Etsy only**.
+  - Use an MoR for Claims and School-Choice.
+  - Form the US LLC via Atlas only once Decks passes day 30 (keeps each product under the $500 budget).
+- **US address / phone:**
+  - The Game Crafter prints in the US and ships straight to US customers, so you don't need a US address (confirm your card billing works).
+  - A US LLC comes with a registered-agent address.
+  - **Twilio SMS to US numbers requires A2P 10DLC or toll-free verification**, so stay **email-only** (Resend) until an entity exists.
+- **US tax basics (high level, not tax advice):**
+  - MoRs and Etsy handle US sales tax.
+  - With your own Stripe, Stripe Tax calculates it, but you register and file where you pass state thresholds (typically $100K or 200 transactions per state).
+  - As an individual, give **W-8BEN** to US platforms (Etsy, MoR, The Game Crafter if it asks). An LLC uses its EIN.
+  - Also check your home country's income-tax rules for foreign revenue.
+- **Time zones:**
+  - Turkey (UTC+3) is 7 hours ahead of US Eastern until Nov 1 (then 8).
+  - US Reddit/Facebook peak (8–11am ET) ≈ **15:00–18:00 Turkey time** (16:00–19:00 from Nov 1).
+  - Schedule posts in that window; set phone alerts for storm-day Card Claims posts and for DC listserv replies.
+  - US evening peaks fall around 02:00–06:00 locally; use scheduling tools, not late nights.
+- **Plan changes:**
+  - The **Card Claims attorney review is still required** (US insurance and legal-practice rules apply wherever you live).
+  - School-Choice loses in-person options (no EdFEST flyers), so it leans on listservs and editorial.
+  - Swap "Stripe" for "MoR" in the Claims and School-Choice setups.
+  - Add ≈ $500 (Atlas) to the Decks budget only when you move beyond Etsy.
+
+---
+
+## 10. First 10 actions on Monday, Sep 28 (portfolio)
 
 1. Pick 3 working names; check trademarks; buy 3 domains.
 2. Create a Stripe account + 3 reservation/pre-order Payment Links ($29 deck, $29 DC plan, $12 claim packet).
